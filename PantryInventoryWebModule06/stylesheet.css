@@ -1,0 +1,29 @@
+body{
+  background-image: linear-gradient(to bottom right, DarkOrange, GoldenRod);
+  border: 2px solid White;
+}
+
+nav{
+  border: 5px solid Black;
+}
+
+.navbar-header{
+  background-color: White;
+  border: 10px solid Gold;
+}
+.nav{
+  background-color: white;
+  font-weight: bold;
+}
+.panel-header{
+  border: 5px solid White;
+  background-image: linear-gradient(to bottom right, DarkOrange, lightgrey);
+}
+
+.panel-body{
+  background-color: white;
+}
+.panel-footer{
+  text-align: center;
+  font-weight: bold;
+}
